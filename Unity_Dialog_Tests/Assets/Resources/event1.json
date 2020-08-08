@@ -1,0 +1,40 @@
+{
+	"dialogues": [
+		{
+			"characterType": 0,
+			"name": "Hero",
+			"atlasImageName": "Hero_Default",
+			"dialogueText": "The world needs me! My princess needs me!"
+		},
+		{
+			"characterType": 1,
+			"name": "Ally",
+			"atlasImageName": "Heroine_surprised",
+			"dialogueText": "Please Bart!! Save the Kingdom! For me!!"
+		},
+		{
+			"characterType": 0,
+			"name": "Hero",
+			"atlasImageName": "Hero_angry",
+			"dialogueText": "I would curse those men who poisoned your father!!"
+		},
+		{
+			"characterType": 1,
+			"name": "Ally",
+			"atlasImageName": "Heroine_surprised",
+			"dialogueText": "Maybe we can talk to the High Sparrow..."
+		},
+		{
+			"characterType": 2,
+			"name": "Mentor",
+			"atlasImageName": "Wizard",
+			"dialogueText": "Who have spoken thou's name!!!??!!"
+		}
+
+
+
+	]
+}
+
+
+
