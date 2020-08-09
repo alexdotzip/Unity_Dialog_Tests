@@ -9,19 +9,19 @@
 		{
 			"characterType": 1,
 			"name": "Ally",
-			"atlasImageName": "Heroine_surprised",
+			"atlasImageName": "Heroine_Surprised",
 			"dialogueText": "Please Bart!! Save the Kingdom! For me!!"
 		},
 		{
 			"characterType": 0,
 			"name": "Hero",
-			"atlasImageName": "Hero_angry",
+			"atlasImageName": "Hero_Angry",
 			"dialogueText": "I would curse those men who poisoned your father!!"
 		},
 		{
 			"characterType": 1,
 			"name": "Ally",
-			"atlasImageName": "Heroine_surprised",
+			"atlasImageName": "Heroine_Surprised",
 			"dialogueText": "Maybe we can talk to the High Sparrow..."
 		},
 		{

@@ -18,6 +18,9 @@ namespace JSONFactory {
 		private static Dictionary<int, string> _resourceList = new Dictionary<int, string> {
 
 			{1, "/Resources/event1.json" }
+
+
+			//{2, "/Resources/event2.json" }
 		};
 
 
